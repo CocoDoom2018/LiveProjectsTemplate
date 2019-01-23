@@ -62,7 +62,7 @@ Link to your Trello boards here:
 * Features
   * sub-feature (if needed)
   * ...
-* Design
+* [Design](https://trello.com/b/qQtg4GRY/design)
   * component (if needed)
   * ...
 * Tasks
